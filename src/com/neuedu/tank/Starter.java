@@ -1,0 +1,7 @@
+package com.neuedu.tank;
+
+public class Starter {
+    public static void main(String[] args) {
+        new MainFrame();
+    }
+}
